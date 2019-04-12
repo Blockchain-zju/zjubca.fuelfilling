@@ -36,7 +36,8 @@
     position: absolute;
     top: 0;
     z-index: -999;
-    height: 100vh;
+    width:100%;
+    height: 100%;
     background-color: #fefefe;
     background-repeat: no-repeat;
     background-size: cover;
